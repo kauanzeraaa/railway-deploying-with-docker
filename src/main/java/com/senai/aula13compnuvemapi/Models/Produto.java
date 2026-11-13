@@ -16,6 +16,9 @@ public class Produto {
         this.preco = preco;
     }
 
+    public Produto(){
+    }
+
 
     // Getters para pegar o id
     public  int getId(){
